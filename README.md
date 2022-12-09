@@ -37,8 +37,8 @@ I am a Tech and Coding enthusiast and a Software Developer based in Praygraj, In
 ## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="50px">My Coding Profiles!
 
 <code> <a href="https://www.codechef.com/users/factfully/"><img width="40px" src="https://img.icons8.com/color/144/000000/codechef.png" title="CodeChef Profile"/></a></code>
-<code> <a href="https://codeforces.com/profile/CRonaldo/"><img width="40px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" title="CodeForces Profile"/></a></code>
-<code> <a href="https://leetcode.com/rajeevsahu/"><img width="40px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" title="LeetCode Profile"/></a> </code>
+
+<code> <a href="https://www.hackerrank.com/dashboard/"><img width="40px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" title="HackerRank"/></a> </code>
 
 
 <!-- <a href="https://www.codechef.com/users/factfully/">![CodeChef Badge](https://cp-logo.vercel.app/codechef/factfully?logo=true) </a>
@@ -48,8 +48,8 @@ I am a Tech and Coding enthusiast and a Software Developer based in Praygraj, In
  
 
 ## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px">Lets Connect!
-<code><a href="https://www.linkedin.com/in/rajeevsahu21/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
-<code><a href="https://www.instagram.com/rajeevsahu21"><img width="45px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
-<code><a href="mailto:rajeevsahu210@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
+<code><a href="https://www.linkedin.com/in/sushantsingh4720/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
+<code><a href="https://www.instagram.com/sush_4720/"><img width="45px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
+<code><a href="mailto:sushantsingh4720@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 
 <br>
