@@ -7,7 +7,7 @@ I am a Tech and Coding enthusiast and a Software Developer based in Praygraj, In
 
 <p align = "center">
 
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantsingh4720&hide=procfile,matlab,php&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&langs_count=8">
+ 
 
   <br>
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=sushantsingh4720&color=fc5a8d" />
