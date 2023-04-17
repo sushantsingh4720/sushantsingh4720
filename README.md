@@ -5,16 +5,6 @@ I am a Tech and Coding enthusiast and a Software Developer based in Praygraj, In
 
 <br>
 
-<p align = "center">
-
- 
-
-  <br>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=sushantsingh4720&color=fc5a8d" />
-  
-  
-</p>
-
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages and Frameworks I code with:
 <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
